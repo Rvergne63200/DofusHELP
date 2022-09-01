@@ -1,0 +1,78 @@
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\bin\Debug\Vue.exe.config
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\bin\Debug\Vue.exe
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\bin\Debug\Vue.pdb
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\bin\Debug\Modele.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\bin\Debug\Modele.pdb
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\obj\Debug\Vue.csprojAssemblyReference.cache
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\obj\Debug\InterfaceEquip.g.cs
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\obj\Debug\ClassDescribe.g.cs
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\obj\Debug\MainWindow.g.cs
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\obj\Debug\ClassButton.g.cs
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\obj\Debug\App.g.cs
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\obj\Debug\Vue_MarkupCompile.cache
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\obj\Debug\Vue_MarkupCompile.lref
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\obj\Debug\App.baml
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\obj\Debug\InterfaceEquip.baml
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\obj\Debug\ClassDescribe.baml
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\obj\Debug\MainWindow.baml
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\obj\Debug\ClassButton.baml
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\obj\Debug\Vue.g.resources
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\obj\Debug\Vue.Properties.Resources.resources
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\obj\Debug\Vue.csproj.GenerateResource.cache
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\obj\Debug\Vue.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\obj\Debug\Vue.csproj.CopyComplete
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\obj\Debug\Vue.exe
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Vue\obj\Debug\Vue.pdb
+C:\Users\Richard\Desktop\sdgs\Vue\bin\Debug\Vue.exe.config
+C:\Users\Richard\Desktop\sdgs\Vue\bin\Debug\Vue.exe
+C:\Users\Richard\Desktop\sdgs\Vue\bin\Debug\Vue.pdb
+C:\Users\Richard\Desktop\sdgs\Vue\bin\Debug\Modele.dll
+C:\Users\Richard\Desktop\sdgs\Vue\bin\Debug\Modele.pdb
+C:\Users\Richard\Desktop\sdgs\Vue\obj\Debug\Vue.csprojAssemblyReference.cache
+C:\Users\Richard\Desktop\sdgs\Vue\obj\Debug\InterfaceEquip.g.cs
+C:\Users\Richard\Desktop\sdgs\Vue\obj\Debug\ClassDescribe.g.cs
+C:\Users\Richard\Desktop\sdgs\Vue\obj\Debug\MainWindow.g.cs
+C:\Users\Richard\Desktop\sdgs\Vue\obj\Debug\ClassButton.g.cs
+C:\Users\Richard\Desktop\sdgs\Vue\obj\Debug\App.g.cs
+C:\Users\Richard\Desktop\sdgs\Vue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Richard\Desktop\sdgs\Vue\obj\Debug\Vue_MarkupCompile.cache
+C:\Users\Richard\Desktop\sdgs\Vue\obj\Debug\Vue_MarkupCompile.lref
+C:\Users\Richard\Desktop\sdgs\Vue\obj\Debug\App.baml
+C:\Users\Richard\Desktop\sdgs\Vue\obj\Debug\InterfaceEquip.baml
+C:\Users\Richard\Desktop\sdgs\Vue\obj\Debug\ClassDescribe.baml
+C:\Users\Richard\Desktop\sdgs\Vue\obj\Debug\MainWindow.baml
+C:\Users\Richard\Desktop\sdgs\Vue\obj\Debug\ClassButton.baml
+C:\Users\Richard\Desktop\sdgs\Vue\obj\Debug\Vue.g.resources
+C:\Users\Richard\Desktop\sdgs\Vue\obj\Debug\Vue.Properties.Resources.resources
+C:\Users\Richard\Desktop\sdgs\Vue\obj\Debug\Vue.csproj.GenerateResource.cache
+C:\Users\Richard\Desktop\sdgs\Vue\obj\Debug\Vue.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\sdgs\Vue\obj\Debug\Vue.csproj.CopyComplete
+C:\Users\Richard\Desktop\sdgs\Vue\obj\Debug\Vue.exe
+C:\Users\Richard\Desktop\sdgs\Vue\obj\Debug\Vue.pdb
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\bin\Debug\Vue.exe.config
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\bin\Debug\Vue.exe
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\bin\Debug\Vue.pdb
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\bin\Debug\Modele.dll
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\bin\Debug\Modele.pdb
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\obj\Debug\Vue.csprojAssemblyReference.cache
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\obj\Debug\InterfaceEquip.g.cs
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\obj\Debug\ClassDescribe.g.cs
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\obj\Debug\MainWindow.g.cs
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\obj\Debug\ClassButton.g.cs
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\obj\Debug\App.g.cs
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\obj\Debug\Vue_MarkupCompile.cache
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\obj\Debug\Vue_MarkupCompile.lref
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\obj\Debug\App.baml
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\obj\Debug\InterfaceEquip.baml
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\obj\Debug\ClassDescribe.baml
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\obj\Debug\MainWindow.baml
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\obj\Debug\ClassButton.baml
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\obj\Debug\Vue.g.resources
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\obj\Debug\Vue.Properties.Resources.resources
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\obj\Debug\Vue.csproj.GenerateResource.cache
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\obj\Debug\Vue.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\obj\Debug\Vue.csproj.CopyComplete
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\obj\Debug\Vue.exe
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\Vue\obj\Debug\Vue.pdb

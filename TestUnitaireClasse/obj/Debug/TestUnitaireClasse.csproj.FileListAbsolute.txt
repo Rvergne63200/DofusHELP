@@ -1,0 +1,32 @@
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitaireClasse\bin\Debug\TestUnitaireClasse.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitaireClasse\bin\Debug\TestUnitaireClasse.pdb
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitaireClasse\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitaireClasse\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitaireClasse\bin\Debug\Modele.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitaireClasse\bin\Debug\Modele.pdb
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitaireClasse\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitaireClasse\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitaireClasse\obj\Debug\TestUnitaireClasse.csprojAssemblyReference.cache
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitaireClasse\obj\Debug\TestUnitaireClasse.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitaireClasse\obj\Debug\TestUnitaireClasse.csproj.CopyComplete
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitaireClasse\obj\Debug\TestUnitaireClasse.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitaireClasse\obj\Debug\TestUnitaireClasse.pdb
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitaireClasse\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitaireClasse\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitaireClasse\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitaireClasse\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitaireClasse\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitaireClasse\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitaireClasse\bin\Debug\TestUnitaireClasse.dll
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitaireClasse\bin\Debug\TestUnitaireClasse.pdb
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitaireClasse\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitaireClasse\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitaireClasse\bin\Debug\Modele.dll
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitaireClasse\bin\Debug\Modele.pdb
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitaireClasse\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitaireClasse\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitaireClasse\obj\Debug\TestUnitaireClasse.csprojAssemblyReference.cache
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitaireClasse\obj\Debug\TestUnitaireClasse.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitaireClasse\obj\Debug\TestUnitaireClasse.csproj.CopyComplete
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitaireClasse\obj\Debug\TestUnitaireClasse.dll
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitaireClasse\obj\Debug\TestUnitaireClasse.pdb

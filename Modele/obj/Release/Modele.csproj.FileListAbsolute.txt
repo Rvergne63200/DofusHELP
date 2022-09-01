@@ -1,0 +1,5 @@
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Modele\bin\Release\Modele.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Modele\bin\Release\Modele.pdb
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Modele\obj\Release\Modele.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Modele\obj\Release\Modele.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Modele\obj\Release\Modele.pdb

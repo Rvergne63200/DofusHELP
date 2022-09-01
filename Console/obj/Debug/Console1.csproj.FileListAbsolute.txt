@@ -1,0 +1,10 @@
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Console\bin\Debug\Console.exe.config
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Console\bin\Debug\Console.exe
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Console\bin\Debug\Console.pdb
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Console\bin\Debug\Modele.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Console\bin\Debug\Modele.pdb
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Console\obj\Debug\Console1.csprojAssemblyReference.cache
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Console\obj\Debug\Console1.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Console\obj\Debug\Console1.csproj.CopyComplete
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Console\obj\Debug\Console.exe
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Console\obj\Debug\Console.pdb

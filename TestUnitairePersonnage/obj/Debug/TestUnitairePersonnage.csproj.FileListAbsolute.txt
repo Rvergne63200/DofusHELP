@@ -1,0 +1,32 @@
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitairePersonnage\bin\Debug\TestUnitairePersonnage.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitairePersonnage\bin\Debug\TestUnitairePersonnage.pdb
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitairePersonnage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitairePersonnage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitairePersonnage\bin\Debug\Modele.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitairePersonnage\bin\Debug\Modele.pdb
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitairePersonnage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitairePersonnage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitairePersonnage\obj\Debug\TestUnitairePersonnage.csprojAssemblyReference.cache
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitairePersonnage\obj\Debug\TestUnitairePersonnage.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitairePersonnage\obj\Debug\TestUnitairePersonnage.csproj.CopyComplete
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitairePersonnage\obj\Debug\TestUnitairePersonnage.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitairePersonnage\obj\Debug\TestUnitairePersonnage.pdb
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitairePersonnage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitairePersonnage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitairePersonnage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitairePersonnage\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitairePersonnage\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\TestUnitairePersonnage\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitairePersonnage\bin\Debug\TestUnitairePersonnage.dll
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitairePersonnage\bin\Debug\TestUnitairePersonnage.pdb
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitairePersonnage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitairePersonnage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitairePersonnage\bin\Debug\Modele.dll
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitairePersonnage\bin\Debug\Modele.pdb
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitairePersonnage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitairePersonnage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitairePersonnage\obj\Debug\TestUnitairePersonnage.csprojAssemblyReference.cache
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitairePersonnage\obj\Debug\TestUnitairePersonnage.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitairePersonnage\obj\Debug\TestUnitairePersonnage.csproj.CopyComplete
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitairePersonnage\obj\Debug\TestUnitairePersonnage.dll
+C:\Users\Richard\Desktop\Projet Version Fonctionnelle\TestUnitairePersonnage\obj\Debug\TestUnitairePersonnage.pdb

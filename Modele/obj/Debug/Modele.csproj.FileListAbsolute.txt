@@ -1,0 +1,6 @@
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Modele\bin\Debug\Modele.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Modele\bin\Debug\Modele.pdb
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Modele\obj\Debug\Modele.csprojAssemblyReference.cache
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Modele\obj\Debug\Modele.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Modele\obj\Debug\Modele.dll
+C:\Users\Richard\Documents\Richard\IUT\C#\DofusHELP\Modele\obj\Debug\Modele.pdb

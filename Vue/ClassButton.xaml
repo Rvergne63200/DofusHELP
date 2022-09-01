@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="Vue.ClassButton"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Vue"
+             mc:Ignorable="d" 
+             d:DesignHeight="80" d:DesignWidth="100">
+             
+    <DockPanel>
+        <Button Background="{x:Null}" BorderBrush="{x:Null}" Click="button1_Click">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition Height="17"/>
+                </Grid.RowDefinitions>
+                <Image Source="{Binding ImageSource}" Height="70"/>
+                <TextBlock Grid.Row="1" Text="{Binding ClassName}" TextAlignment="Center" FontSize="16" FontFamily="Tw Cen MT Condensed Extra Bold" Foreground="#FF1D1D1D" />
+            </Grid>
+        </Button>
+    </DockPanel>
+</UserControl>
